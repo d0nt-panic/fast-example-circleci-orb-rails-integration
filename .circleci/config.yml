@@ -1,6 +1,6 @@
 version: 2.1
 orbs:
-  fast: wallarm/fast@1.0.0
+  fast: wallarm/fast@dev:add_version
 jobs:
   build:
     machine:
