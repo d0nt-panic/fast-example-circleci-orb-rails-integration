@@ -17,3 +17,4 @@ jobs:
       - fast/run_security_tests:
           app_port: "3000"
           test_record_id: "3334" # use your test_record_id
+          wallarm_version: invalid
